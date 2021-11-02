@@ -13,3 +13,6 @@
 3-) altoge Tablosu
 
 ![image](https://user-images.githubusercontent.com/44525073/139810819-0b54fb11-8ee8-44df-9979-b38a1ad39804.png)
+
+
+<em>NOT: </em> Veri tabanınızı oluşturduktan sonra mail kısmına <strong>admin@gmail.com</strong> şifre kısmına ise <strong>admin</strong> ile giriş yapabilirsiniz. 
